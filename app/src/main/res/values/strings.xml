@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BeratBadanIdealActivity</string>
+    <string-array name="sekolah">
+        <item>Pesantren PeTIK</item>
+        <item>Universitas Indonesia</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Institut Teknologi PLN</item>
+    </string-array>
+</resources>
